@@ -14,5 +14,22 @@ export default function AboutPage() {
     return <NotFound />;
   }
 
-  return <AboutContent record={record} />;
+  return (
+    <div className="min-h-screen flex items-center justify-center px-6 font-mono">
+      <div
+        className="
+          w-full
+          max-w-4xl
+          px-10
+          py-8
+          border
+          border-[rgba(124,255,178,0.25)]
+          bg-[rgba(2,6,23,0.65)]
+          text-[#7CFFB2]
+        "
+      >
+        <AboutContent record={record} />
+      </div>
+    </div>
+  );
 }
