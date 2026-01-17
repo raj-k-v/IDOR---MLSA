@@ -18,7 +18,7 @@ export default function NotFound() {
         </div>
 
         <p className="mt-6 text-sm">
-          Object reference not found in archive index.
+          Record does not exist.
         </p>
       </div>
     </div>
