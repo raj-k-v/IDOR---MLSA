@@ -13,7 +13,7 @@ export default function NotFound() {
           text-[#7CFFB2]
         "
       >
-        <div className="text-xs tracking-[0.35em] uppercase text-[#9CA3AF]">
+        <div className="text-xs tracking-[0.35em] uppercase text-[#9CA3AF]"> 
           ACCESS FAILURE
         </div>
 
