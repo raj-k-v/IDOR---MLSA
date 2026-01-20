@@ -7,47 +7,135 @@ export type AboutRecord = {
 export const aboutRecords: AboutRecord[] = [
   {
     id: 2,
-    title: "About the Event",
-    body: `DEF CON is our flagship event, designed to bring together curious minds interested in cybersecurity, problem-solving, and exploration.
+    title: "ABOUT THE EVENT",
+    body: `Your presence is not a coincidence.
 
-The Cicada 3301 challenge is part of this experience, encouraging participants to look beyond the obvious and question how systems are built.`,
+This event did not wait for you.
+It found you.
+
+From the many,
+only a few question the obvious.
+
+From the few,
+fewer still look beyond the layers.
+
+Here, every clue has depth.
+Every depth breeds another question.
+Every question denies an easy answer.
+
+This is a trail.
+Not a path.
+
+A test.
+Not a game.
+
+The highly intelligent are invited.
+The persistent are chosen.`,
   },
   {
     id: 3,
-    title: "Event Philosophy",
-    body: `DEF CON 3301 represents curiosity, persistence, and the willingness to explore.
+    title: "EVENT PHILOSOPHY",
+    body: `DEFCON 3301 stands on three pillars.
 
-Strong systems are not broken by force alone — they often fail when assumptions go unquestioned.`,
+Curiosity.
+Persistence.
+Willingness.
+
+Entry is not granted to those
+who merely use systems,
+but to those who see them as puzzles.
+
+Not everyone will pass.
+Not everyone is meant to.
+
+Only those who question every structure.
+Who challenge every notion.
+Who find the flaw in the flawless.
+
+Those who observe.
+Who understand.
+Who decode.
+
+They alone cross the threshold.
+They become part of the highly intelligent.`,
   },
   {
     id: 5,
-    title: "Access Control",
-    body: `Authentication confirms identity.
-Authorization controls access.
+    title: "ACCESS CONTROL",
+    body: `Authentication proves who you are.
 
-Confusing the two can expose more than intended.`,
+Authorization decides
+what you may touch.
+
+Confuse the two,
+and boundaries dissolve.
+
+Walls become illusions.
+
+Most systems are not breached by force,
+but by confusion.
+By misunderstanding.
+
+Learn where identity ends
+and access begins.
+
+Know the difference.
+Or become it.`,
   },
   {
     id: 7,
-    title: "Observation",
-    body: `You noticed a pattern.
+    title: "OBSERVATION",
+    body: `Observation is the beginning.
 
-Patterns exist because someone assumed they would not be noticed.`,
+It uncovers what was meant
+to remain unseen.
+
+Patterns exist
+because someone believed
+they were hidden.
+
+Every system repeats.
+Every repetition leaves a trail.
+Every trail leads somewhere.
+
+What was once concealed
+has shed its disguise.`,
   },
   {
     id: 11,
-    title: "Pattern",
-    body: `Some numbers stand alone.
+    title: "PATTERN",
+    body: `Some values break the rhythm.
 
-Their isolation gives them meaning.`,
+They disrupt the sequence.
+They become signals.
+
+In a herd of protocol followers,
+the rebel becomes the emphasis.
+
+One pattern opens the door to another.
+Patterns conceal direction.
+Direction reveals the path.
+
+And the path
+leads to victory.`,
   },
   {
     id: 3301,
-    title: "Restricted Archive",
-    body: `DEF CON has always rewarded those who think differently.
+    title: "RESTRICTED ARCHIVE",
+    body: `DEFCON was never built for the many.
 
-You accessed a record that was never meant to be public — not through force, but through understanding.
+It was designed for the few.
 
-Defcon_flag{IDOR_Vulnerability_3301}`,
+You did not force your way in.
+You followed the logic.
+You proved your understanding.
+
+What was never meant to be seen
+revealed itself through insight.
+
+Defcon_flag{IDOR_Vulnerability_3301}
+
+Access was not stolen.
+It was discovered.`,
   },
 ];

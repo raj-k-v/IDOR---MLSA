@@ -18,3 +18,15 @@ pre::after {
 }
 
 
+
+[data-radix-scroll-area-thumb] {
+  background-color: rgba(124, 255, 178, 0.4);
+  border-radius: 999px;
+}
+
+[data-radix-scroll-area-thumb]:hover {
+  background-color: rgba(124, 255, 178, 0.6);
+}
+.group:hover [data-radix-scroll-area-scrollbar] {
+  opacity: 1;
+}
